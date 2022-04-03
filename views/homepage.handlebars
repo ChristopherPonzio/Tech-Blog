@@ -1,2 +1,18 @@
 HELLO WORLD!
-
+<div class="posts">
+    {{#each post}}
+    <article class="card">
+        <div class="card-header flex-row justify-space-between">
+            <h2>
+                <a href="/post/{{Post.id}}">{{Post.title}}</a>
+            </h2>
+            <div>
+                Posted by {{User.username}} on {{format_date createdAt}}
+            </div>
+        </div>
+        <div class="card-body">
+            {{Post.body}}
+        </div>
+    </article>
+    {{/each}}
+</div>
