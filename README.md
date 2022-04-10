@@ -7,7 +7,7 @@
 
 ## Installation
    To run this source code you will have to have Node.js, and the following packages: dotenv.js, express, mysql2, sequelize, bcrypt, express-handlebars, express-session.
-   * Heroku: 
+   * Heroku: https://cryptic-castle-12751.herokuapp.com/
    * GitHub: https://christopherponzio.github.io/Tech-Blog/
    * Repository: https://github.com/ChristopherPonzio/Tech-Blog
 
