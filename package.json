@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
+    "chart.js": "^3.7.1",
     "connect-session-sequelize": "^7.0.4",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
@@ -28,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChristopherPonzio/Tech-Blog.git"
+    "url": "git+https://github.com/mblackwellgca/Kinetic-Tickets.git"
   },
   "bugs": {
-    "url": "https://github.com/ChristopherPonzio/Tech-Blog/issues"
+    "url": "https://github.com/mblackwellgca/Kinetic-Tickets/issues"
   },
-  "homepage": "https://github.com/ChristopherPonzio/Tech-Blog#readme"
+  "homepage": "https://github.com/mblackwellgca/Kinetic-Tickets#readme"
 }

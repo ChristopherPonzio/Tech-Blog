@@ -1,7 +1,9 @@
 header, .post:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
-
+body {
+  background-color: #F5F5F5;
+}
 .no-button {
   background: none;
   border: none;
